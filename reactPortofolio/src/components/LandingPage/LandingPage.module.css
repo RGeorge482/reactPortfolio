@@ -1,0 +1,17 @@
+.LandingPage {
+    background: url('./imgLandingPage/bck1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+
+    height: 100%;
+    min-height: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Description {
+    font-size: 12px;
+}
